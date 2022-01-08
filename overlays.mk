@@ -108,6 +108,10 @@ PRODUCT_PACKAGES += \
     QSRoundedRectangle \
     QSOutline
 
+# System
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
+
 # Switch themes
 # PRODUCT_PACKAGES += \
 #     MD2Switch \
@@ -194,3 +198,4 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay
+    
