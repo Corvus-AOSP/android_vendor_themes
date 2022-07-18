@@ -106,7 +106,8 @@ PRODUCT_PACKAGES += \
 # QS Panel
 PRODUCT_PACKAGES += \
     QSRoundedRectangle \
-    QSOutline
+    QSOutline \
+    QSTwoToneAccent
 
 # System
 PRODUCT_PACKAGES += \
