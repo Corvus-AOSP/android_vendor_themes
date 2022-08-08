@@ -166,37 +166,51 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    FontAccuratistOverlay \
-    FontAclonicaOverlay \
-    FontAmaranteOverlay \
-    FontBariolOverlay \
-    FontCagliostroOverlay \
-    FontCoconOverlay \
-    FontComfortaaOverlay \
-    FontComicSansOverlay \
-    FontCoolstoryOverlay \
-    FontExotwoOverlay \
-    FontFifa2018Overlay \
+    FontGInterOverlay \
     FontGoogleSansOverlay \
-    FontGrandHotelOverlay \
     FontHarmonySansOverlay \
-    FontLatoOverlay \
-    FontLGSmartGothicOverlay \
-    FontLinotteOverlay \
-    FontNokiaPureOverlay \
-    FontNunitoOverlay \
-    FontOneplusSansOverlay \
-    FontOneplusSlateOverlay \
-    FontOswaldOverlay \
-    FontQuandoOverlay \
-    FontRedressedOverlay \
-    FontReemKufiOverlay \
-    FontRobotoCondensedOverlay \
-    FontRosemaryOverlay \
-    FontRubikOverlay \
-    FontSamsungOneOverlay \
-    FontSonySketchOverlay \
-    FontStoropiaOverlay \
-    FontSurferOverlay \
-    FontUbuntuOverlay
+    FontLinotteSourceOverlay \
+    FontManropeOverlay \
+    FontOnePlusSansOverlay \
+    FontOneplusSlateSourceOverlay \
+    FontOneUISansOverlay \
+    FontAclonicaSourceOverlay \
+    FontAmaranteSourceOverlay \
+    FontAntipastoProSourceOverlay \
+    FontBariolSourceOverlay \
+    FontCagliostroSourceOverlay \
+    FontCoconSourceOverlay \
+    FontComfortaaSourceOverlay \
+    FontComicSansSourceOverlay \
+    FontCoolstorySourceOverlay \
+    FontEvolveSansSourceOverlay \
+    FontExotwoSourceOverlay \
+    FontFifa2018SourceOverlay \
+    FontFucekSourceOverlay \
+    FontGrandHotelSourceOverlay \
+    FontLGSmartGothicSourceOverlay \
+    FontLemonMilkSourceOverlay \
+    FontNokiaPureSourceOverlay \
+    FontNunitoSourceOverlay \
+    FontOdudaSourceOverlay \
+    FontQuandoSourceOverlay \
+    FontRedressedSourceOverlay \
+    FontReemKufiSourceOverlay \
+    FontRosemarySourceOverlay \
+    FontSamsungOneSourceOverlay \
+    FontSimpleDaySourceOverlay \
+    FontSonySketchSourceOverlay \
+    FontStoropiaSourceOverlay \
+    FontSurferSourceOverlay \
+    FontUbuntuSourceOverlay \
+    RobotoFallback-VF.ttf \
+    FontOppoSansOverlay \
+    FontNothingDotHeadlineOverlay \
+    FontNothingDotOverlay \
+    FontMiSansOverlay \
+    FontProductSansVHOverlay \
+    FontSanFranciscoDisplayProOverlay \
+    FontJTLeonorOverlay \
+    FontFluidSansOverlay
+
     
