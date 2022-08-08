@@ -87,7 +87,13 @@ PRODUCT_PACKAGES += \
 	XperiaSignalOverlay \
 	XperiaWiFiOverlay \
 	ZigZagSignalOverlay \
-	ZigZagWiFiOverlay
+	ZigZagWiFiOverlay \
+    AquariumSignalOverlay \
+    WannuiSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    PillsSignalOverlay \
+    SeaSignalOverlay
 
 
 # Navbar
