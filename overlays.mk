@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Icon shape overlays
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
@@ -26,7 +26,7 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay
 
 # Icon packs
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     IconPackAcherusAndroidOverlay \
     IconPackAcherusSystemUIOverlay \
     IconPackOOSAndroidOverlay \
@@ -71,7 +71,7 @@ PRODUCT_PACKAGES += \
     IconPackPUIThemePickerOverlay
 
 # Signal / WiFi Icons
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
 	BarsSignalOverlay \
 	BarsWiFiOverlay \
 	InsideSignalOverlay \
@@ -97,7 +97,7 @@ PRODUCT_PACKAGES += \
 
 
 # Navbar
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     NavigationBarModeGesturalOverlayFS
 #     NavbarAsusOverlay \
 #     NavbarOnePlusOverlay \
@@ -110,7 +110,7 @@ PRODUCT_PACKAGES += \
 #     NavbarSammyOverlay \
 
 # QS Panel
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     QSRoundedRectangle \
     QSOutline \
     QSTwoToneAccent
