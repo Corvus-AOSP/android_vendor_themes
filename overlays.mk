@@ -217,6 +217,7 @@ PRODUCT_PACKAGES += \
     FontProductSansVHOverlay \
     FontSanFranciscoDisplayProOverlay \
     FontJTLeonorOverlay \
-    FontFluidSansOverlay
+    FontFluidSansOverlay \
+    FontProductSansOverlay
 
     
