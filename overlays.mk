@@ -218,6 +218,8 @@ PRODUCT_PACKAGES += \
     FontSanFranciscoDisplayProOverlay \
     FontJTLeonorOverlay \
     FontFluidSansOverlay \
-    FontProductSansOverlay
+    FontProductSansOverlay \
+    FontPoppinsOverlay \
+    FontJosefinSansOverlay
 
     

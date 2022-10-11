@@ -936,16 +936,6 @@
   </family>
   <alias name="misans-medium" to="misans" weight="400" />
 
-  <!-- Product Sans VH -->
-  <family customizationType="new-named-family" name="productsansvh">
-      <font weight="400" style="normal">ProductSansRegular.otf</font>
-      <font weight="400" style="italic">ProductSansItalic.otf</font>
-      <font weight="700" style="normal">ProductSansBold.otf</font>
-      <font weight="700" style="italic">ProductSansBoldItalic.otf</font>
-  </family>
-  <alias name="productsansvh-regular" to="productsansvh" weight="400" />
-  <alias name="productsansvh-bold" to="productsansvh" weight="700" />
-
   <!-- San Francisco Pro -->
   <family customizationType="new-named-family" name="sanfrancisco">
       <font weight="400" style="normal">SanFranciscoDisplayPro.ttf</font>
@@ -1000,4 +990,36 @@
   <alias name="product-sans-regular" to="product-sans" weight="400" />
   <alias name="product-sans-medium" to="product-sans" weight="500" />
   <alias name="product-sans-bold" to="product-sans" weight="700" />
+
+  <family customizationType="new-named-family" name="poppins">
+      <font weight="100" style="normal">Poppins-Thin.ttf</font>
+      <font weight="100" style="italic">Poppins-ThinItalic.ttf</font>
+      <font weight="300" style="normal">Poppins-Light.ttf</font>
+      <font weight="300" style="italic">Poppins-LightItalic.ttf</font>
+      <font weight="400" style="normal">Poppins-Regular.ttf</font>
+      <font weight="400" style="italic">Poppins-Italic.ttf</font>
+      <font weight="500" style="normal">Poppins-Medium.ttf</font>
+      <font weight="500" style="italic">Poppins-MediumItalic.ttf</font>
+      <font weight="600" style="normal">Poppins-SemiBold.ttf</font>
+      <font weight="600" style="italic">Poppins-SemiBoldItalic.ttf</font>
+      <font weight="700" style="normal">Poppins-Bold.ttf</font>
+      <font weight="700" style="italic">Poppins-BoldItalic.ttf</font>
+      <font weight="900" style="normal">Poppins-Black.ttf</font>
+      <font weight="900" style="italic">Poppins-BlackItalic.ttf</font>
+    </family>
+    <alias name="poppins-regular" to="poppins" weight="400"/>
+    <alias name="poppins-medium" to="poppins" weight="500"/>
+    <alias name="poppins-semi-bold" to="poppins" weight="600"/>
+    <alias name="poppins-bold" to="poppins" weight="700"/>
+
+  <!-- Josefin Sans -->
+  <family customizationType="new-named-family" name="josefin-sans">
+        <font weight="400" style="normal">JosefinSans-Regular.ttf</font>
+        <font weight="400" style="italic">JosefinSans-Italic.ttf</font>
+        <font weight="700" style="normal">JosefinSans-Bold.ttf</font>
+        <font weight="700" style="italic">JosefinSans-BoldItalic.ttf</font>
+  </family>
+  <alias name="josefin-sans-regular" to="josefin-sans" weight="400" />
+  <alias name="josefin-sans-medium" to="josefin-sans" weight="500" />
+  <alias name="josefin-sans-bold" to="josefin-sans" weight="700" />
 </fonts-modification>
